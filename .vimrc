@@ -91,6 +91,7 @@ ab enld endl
 ab sdt std
 ab inculde include
 ab improt import
+ab ot to
 " ab \<\<\>\> <<
 " ab <lt><lt>>> <lt><lt>
 
