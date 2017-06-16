@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/ben/.vim/bundle/vim-racer'
+let g:netrw_dirhist_2='/home/ben/.vim/bundle/vim-racer/autoload'
+let g:netrw_dirhist_3='/home/ben/.vim/bundle/vim-racer'
+let g:netrw_dirhist_4='/home/ben/.vim/bundle/vim-racer/autoload'
+let g:netrw_dirhist_5='/home/ben/Documents/Work/rpp2design'
+let g:netrw_dirhist_6='/home/ben/Documents/Work/rpp2design/C++'
+let g:netrw_dirhist_7='/home/ben/Documents/Work/rpp2design/C++/c++DemoMultiThread'
+let g:netrw_dirhist_8='/home/ben/Documents/Work/rpp2design/C++/c++DemoMultiThread/c++DemoMultiThread'
